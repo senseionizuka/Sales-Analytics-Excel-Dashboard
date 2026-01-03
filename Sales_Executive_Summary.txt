@@ -1,0 +1,102 @@
+ Executive Summary – Sales Performance & Customer Insights Dashboard
+Project Overview
+
+This project presents an interactive Sales Performance Dashboard designed to analyze revenue trends, customer behavior, product performance, and operational efficiency across multiple dimensions such as time, occasions, categories, products, cities, and delivery timelines.
+The dashboard enables stakeholders to make data-driven decisions by quickly identifying high-performing segments, seasonal trends, and potential areas for improvement.
+
+ Key Financial Highlights
+
+Total Revenue: ₹35.21 Lakhs
+
+Average Revenue per Customer: ₹3,520.98
+
+Average Order-to-Delivery Time: 5.53 days
+
+These metrics indicate a strong revenue base with consistent customer spending and a reasonably efficient delivery cycle, which is crucial for customer satisfaction in time-sensitive purchases.
+
+ Revenue Trends & Seasonality
+
+Revenue peaks are observed in February and August, indicating strong seasonal or promotional demand.
+
+Lower revenue periods appear around April–June and September, suggesting opportunities for targeted campaigns or discounts.
+
+Day-wise analysis shows:
+
+Highest revenue on Tuesday and Sunday
+
+Lowest performance on Wednesday and Thursday
+
+ Business Insight: Optimizing promotions during low-performing days can help stabilize weekly revenue.
+
+ Occasion-Based Performance
+
+Anniversary and Raksha Bandhan are the top revenue-generating occasions.
+
+Birthdays contribute moderate revenue.
+
+Valentine’s Day and Diwali show comparatively lower performance.
+
+ Business Insight:
+Occasion-driven marketing has a significant impact. Underperforming occasions can benefit from better bundling, targeted ads, or personalized offers.
+
+ Category & Product Insights
+Top Revenue Categories:
+
+Colors (Highest revenue contributor)
+
+Soft Toys
+
+Sweets
+
+Top 5 Products by Revenue:
+
+Magnam Set
+
+Quia Gift
+
+Dolores Gift
+
+Harum Pack
+
+Deserunt Box
+
+ Business Insight:
+Focusing inventory, promotions, and cross-selling strategies around these categories and products can maximize ROI.
+
+ Geographic Performance
+
+Cities with the highest number of orders include:
+
+Imphal
+
+Dhanbad
+
+Kavali
+
+Smaller cities still contribute steady order volumes, indicating market penetration beyond metros.
+
+ Business Insight:
+Regional demand analysis can help optimize logistics, warehouse placement, and city-specific marketing campaigns.
+
+ Operational Efficiency
+
+An average delivery time of 5.53 days suggests stable operations.
+
+Further reduction in delivery time—especially for occasion-based orders—can significantly improve customer experience and repeat purchases.
+
+ Strategic Recommendations
+
+Strengthen marketing efforts during low-revenue months and weekdays
+
+Invest more in high-performing categories and top products
+
+Optimize campaigns around key occasions
+
+Improve delivery timelines for time-sensitive events
+
+Use city-level insights for localized promotions
+
+ Conclusion
+
+This dashboard provides a comprehensive 360° view of sales performance, helping businesses understand what drives revenue, when demand peaks, and where growth opportunities exist.
+It demonstrates strong analytical thinking, business logic, and effective use of Excel dashboards—making it a portfolio-ready data analytics project.
