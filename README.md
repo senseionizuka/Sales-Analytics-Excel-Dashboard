@@ -34,7 +34,8 @@ The dashboard was built using **Microsoft Excel with Power Query and Power Pivot
 ---
 
 ##  Dashboard Preview
-!dashboard.png
+<img width="1857" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/db19ddd3-a397-430b-a0b3-8e9d53f4da69" />
+(dashboard.png)
 
 ---
 
