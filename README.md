@@ -36,6 +36,14 @@ The dashboard was built using **Microsoft Excel with Power Query and Power Pivot
 ##  Dashboard Preview
 <img width="1857" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/db19ddd3-a397-430b-a0b3-8e9d53f4da69" />
 (dashboard.png)
+## Problem Statements
+<img width="916" height="527" alt="Screenshot 2026-01-03 150738" src="https://github.com/user-attachments/assets/305aa3af-1f7a-4c16-ac3e-621c1e0213aa" />
+
+---
+## powerpivot and power Query
+<img width="501" height="670" alt="Screenshot 2026-01-03 150559" src="https://github.com/user-attachments/assets/9c31b628-7f63-4ceb-8fdb-c760f9bde1f1" />
+
+<img width="1900" height="734" alt="Screenshot 2026-01-03 150501" src="https://github.com/user-attachments/assets/effeb2fb-b8aa-4056-b426-99a972f2f2d3" />
 
 ---
 
